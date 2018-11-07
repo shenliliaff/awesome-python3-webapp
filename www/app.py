@@ -1,4 +1,4 @@
-import logging; logging.basicConfig(level=logging.INFO)
+import logging; logging.basicConfig(level=logging.INFO)#logging默认级别
 
 import asyncio, os, json, time
 from datetime import datetime
